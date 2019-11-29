@@ -1,2 +1,8 @@
-# simple-nodejs-project
-NodeJS was used here for the back-end. This e-shop was developed while studying online, a course by "Udemy".
+<img src="img/logo.jpg" width="600">
+
+# How to install and run project:
+    $ git clone <project>
+    $ cd path/to/<project>
+    $ nodemon
+    
+Open http://127.0.0.1:1337/ to view it in the browser.
